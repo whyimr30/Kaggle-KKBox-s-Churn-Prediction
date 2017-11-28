@@ -1,7 +1,4 @@
 
 *.csv
 *.gz
-.ipynb_checkpoints/KBox's Churn Prediction Challenge - 171125-checkpoint.ipynb
-.ipynb_checkpoints/KBox's Churn Prediction Challenge - 171007-checkpoint.ipynb
-.ipynb_checkpoints/KBox's Churn Prediction Challenge - 171112-checkpoint.ipynb
-.ipynb_checkpoints/KBox's Churn Prediction Challenge - 171126 (0.16276)-checkpoint.ipynb
+.ipynb_checkpoints/*
